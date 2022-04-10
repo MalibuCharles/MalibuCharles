@@ -2,4 +2,4 @@
 
 -I am proably somewhere building something awesome!
 
-                                                    JOIN ME ON MY 100 DAY CODING CHALLENGE 
+                                                  JOIN ME ON MY 100 DAY CODING CHALLENGE 
